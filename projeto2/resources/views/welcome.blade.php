@@ -4,8 +4,8 @@
 
 @foreach($events as $event)
   
-<!-- <p>{{ $event->titulo }} -- {{ $event->descricao }}</p> -->
-teste
+<p>{{ $event->titulo }} -- {{ $event->descricao }}</p>
+
 @endforeach
 
 @endsection
