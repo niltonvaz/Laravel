@@ -4,7 +4,7 @@
 
 @foreach($events as $event)
   
-<p>{{ $event->titulo }} -- {{ $event->descricao }}</p>
+<!-- <p>{{ $event->titulo }} -- {{ $event->descricao }}</p> -->
 
 @endforeach
 
